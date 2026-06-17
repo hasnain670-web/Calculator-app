@@ -1,0 +1,34 @@
+# Simple Calculator
+
+A beginner-friendly calculator project built with HTML, CSS, and JavaScript.
+
+## Features
+
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Clear Button (C)
+- Backspace Button (⌫)
+- Dark Mode 🌙
+- Keyboard Support ⌨️
+- Responsive Design
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## How to Use
+
+1. Open the calculator in your browser.
+2. Click the buttons or use your keyboard.
+3. Press Enter to calculate.
+4. Press Backspace to delete one character.
+5. Press Esc to clear the display.
+6. Toggle Dark Mode using the Dark Mode button.
+
+## Purpose
+
+This project was created to practice frontend web development fundamentals, including HTML structure, CSS styling, JavaScript functions, DOM manipulation, and event handling.
